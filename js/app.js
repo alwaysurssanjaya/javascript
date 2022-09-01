@@ -1,1 +1,1 @@
-alert('aa');
+document.getElementById("h").innerHTML="SANJAYA";
